@@ -8,7 +8,7 @@ tagline: 根据需求选择适合您的 Pyisland 版本
 actions:
   - text: pyislandPyside6
     icon: download
-    link: https://download.pyisland.com/download/pyisland.exe
+    link: https://download.pyisland.com/download/Pyisland_V1.6.1.exe
   - text: pyislandQT
     icon: download
     link: download
@@ -19,7 +19,7 @@ actions:
     icon: download
     link: https://download.pyisland.com/download/DynamicIsland_0.2.0_x64-setup.exe
 downloadUrls:
-  pyislandPyside6: "https://download.pyisland.com/download/pyisland.exe"
+  pyislandPyside6: "https://download.pyisland.com/download/Pyisland_V1.6.1.exe"
   pyislandQT: ""
   pyisland-wanku: ""
   tauri-island: "https://download.pyisland.com/download/DynamicIsland_0.2.0_x64-setup.exe"
