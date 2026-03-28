@@ -9,7 +9,7 @@ export default navbar([
   {
     text: "使用指南",
     icon: "book",
-    link: "/guide/getting-started.html",
+    link: "/guide/",
   },
   {
     text: "开发指南",

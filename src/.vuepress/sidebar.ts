@@ -6,10 +6,10 @@ export default sidebar({
       text: "使用指南",
       icon: "book",
       children: [
-        "/guide/getting-started",
-        "/guide/pyislandPyside6.md",
-        "/guide/tauri-island.md",
-        "/guide/features.md",
+        "/guide/",
+        "/guide/pyislandPyside6",
+        "/guide/tauri-island",
+        "/guide/features",
       ],
     },
   ],
@@ -18,8 +18,8 @@ export default sidebar({
       text: "开发指南",
       icon: "code",
       children: [
-        "/develop/architecture.md",
-        "/develop/contribution.md",
+        "/develop/architecture",
+        "/develop/contribution",
       ],
     },
   ],
@@ -28,11 +28,11 @@ export default sidebar({
       text: "分支版本",
       icon: "code-branch",
       children: [
-        "/branches/overview.md",
-        "/branches/pyislandPyside6.md",
-        "/branches/pyislandQT.md",
-        "/branches/tauri-island.md",
-        "/branches/pyisland-wanku.md"
+        "/branches/overview",
+        "/branches/pyislandPyside6",
+        "/branches/pyislandQT",
+        "/branches/tauri-island",
+        "/branches/pyisland-wanku"
       ],
     },
   ],
