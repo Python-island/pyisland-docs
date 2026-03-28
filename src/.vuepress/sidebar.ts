@@ -18,7 +18,7 @@ export default sidebar({
       text: "开发指南",
       icon: "code",
       children: [
-        "/develop/architecture",
+        "/develop/",
         "/develop/contribution",
       ],
     },

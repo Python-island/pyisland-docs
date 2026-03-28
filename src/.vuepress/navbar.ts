@@ -14,7 +14,7 @@ export default navbar([
   {
     text: "开发指南",
     icon: "code",
-    link: "/develop/architecture.html",
+    link: "/develop/",
   },
   {
     text: "分支版本",
