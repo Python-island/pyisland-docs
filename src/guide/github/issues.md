@@ -6,6 +6,9 @@ author: cXp1r
 ---
 
 # 反馈教程~
+:::warning 
+此篇文档暂未完善
+:::
 
 ::: info
 本文档介绍如何使用回复模板的github内容 喵~
@@ -19,6 +22,8 @@ author: cXp1r
 
   <div style="flex:1;">
     点击你看到唯一是绿色并且文本为New issue的按钮
+    <br>
+    根据上面的类型选择后,填写有关栏目即可
   </div>
 
   <div style="display:flex; flex-direction:column; gap:10px;">
@@ -26,3 +31,5 @@ author: cXp1r
   </div>
 
 </div>
+
+
