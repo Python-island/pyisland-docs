@@ -13,6 +13,16 @@ export default sidebar({
         "/guide/features",
       ],
     },
+    {
+      text: "github教程~",
+      icon: "book",
+      children: [
+        "/guide/github/connect.md",
+        "/guide/github/accounts.md",
+        "/guide/github/functions.md",
+        "/guide/github/issues.md",
+      ],
+    },
   ],
   "/develop/": [
     {
