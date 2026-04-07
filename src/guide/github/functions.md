@@ -11,7 +11,7 @@ author: cXp1r
 :::
 
 :::info
-这里只介绍与反馈有关的功能,如果您连github都不会使用,不建议二次开发,反馈即可
+这里只介绍与反馈有关的功能,如果您连github都不会使用,**不建议**二次开发,[反馈](/guide/github/issues.html#如何提issues)即可
 :::
 :::tip 快捷方式
 | 名称 | 备注 | 

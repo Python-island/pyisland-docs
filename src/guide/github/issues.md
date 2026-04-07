@@ -15,8 +15,9 @@ author: cXp1r
 :::
 
 # 如何提issues
-1.点击[navbar(导航栏)](/guide/github/functions.html#navbar-导航栏)所示图片中的issues
-2.[点击此处](https://github.com/Python-island/Python-island/issues)
+1.[点击此处](https://github.com/Python-island/Python-island/issues)
+2.点击[navbar(导航栏)](/guide/github/functions.html#navbar-导航栏)中的issues,(**如果你打算点图片可以点上面的链接**)
+<br>
 
 <div style="display:flex; align-items:center; gap:20px;">
 
@@ -25,7 +26,7 @@ author: cXp1r
     <br>
     点击后如下图所示
     <br>
-    根据下图上的<strong>类型</strong>选择后,填写<strong>有关栏目</strong>即可
+    根据<strong>下图</strong>上的<strong>类型</strong>选择后,填写<strong>有关栏目</strong>即可
   </div>
 
   <div style="display:flex; flex-direction:column; gap:10px;">
@@ -34,6 +35,7 @@ author: cXp1r
 
 </div>
 
+<br>
 
 ![界面](/github/15.png)
 <br>

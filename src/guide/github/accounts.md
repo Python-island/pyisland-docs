@@ -4,12 +4,10 @@ icon: lightbulb
 order: 1
 author: cXp1r
 ---
-:::warning 
-此篇文档暂未完善,但不妨碍阅读
-:::
+
 
 :::tip
-据统计，有 11.4514% 的人点了这个按钮：[点击此处跳过本章](/guide/github/functions.html)。没账户的别点。
+据统计，有 11.4514% 的人点了这个按钮,**没账户的别点**.[点击此处跳过本章](/guide/github/functions.html)。
 :::
 
 :::info 准备
@@ -17,12 +15,13 @@ author: cXp1r
 :::
 
 ## 开始注册
-
+[点击前往注册](https://github.com/signup)
 ## 输入邮箱
 
 <div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="flex:1; min-width:260px;">
-    <p>禁止出现右图这种情况。</p>
+    <p>禁止出现右图这种情况。(贴吧禁图)</p>
+    <strong>右边是举例的steam注册界面,并非本教程的gitHub注册界面</strong>
     <p>示例格式：<code>example@example.com</code></p>
   </div>
 

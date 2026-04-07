@@ -14,7 +14,7 @@ order: 4
 :::tip 提示
 图片可以点击放大查看
 :::
-![官网](/eisland/1.png)
+![官网](/ncm-music/1.png)
 <div style="display:flex; align-items:center; gap:20px;">
 
   <div style="flex:1;">
@@ -29,13 +29,13 @@ order: 4
   </div>
 
   <img
-    src="/eisland/2.png"
+    src="/ncm-music/2.png"
     style="width:320px; box-shadow:0 4px 12px rgba(0,0,0,0.1);"
   />
 
 
 </div>
-<img src="/eisland/3.png" style="width:114514px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
+<img src="/ncm-music/3.png" style="width:114514px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" />
 
 <br>
 <br>
@@ -49,8 +49,8 @@ order: 4
   </div>
 
   <div style="display:flex; flex-direction:column; gap:10px;">
-    <img src="/eisland/4.png" style="width:360px;" />
-    <img src="/eisland/5.png" style="width:360px;" />
+    <img src="/ncm-music/4.png" style="width:360px;" />
+    <img src="/ncm-music/5.png" style="width:360px;" />
   </div>
 
 </div>
