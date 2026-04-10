@@ -15,14 +15,20 @@ author: cXp1r
 :::
 
 # 如何提issues
-1.[点击此处](https://github.com/Python-island/Python-island/issues)
-2.点击[navbar(导航栏)](/guide/github/functions.html#navbar-导航栏)中的issues,(**如果你打算点图片可以点上面的链接**)
-<br>
+:::warning
+**重要的事情说三遍:明确自己使用的分支,如eisland(electron),tauri-island(tauri)**
+**重要的事情说三遍:明确自己使用的分支,如eisland(electron),tauri-island(tauri)**
+**重要的事情说三遍:明确自己使用的分支,如eisland(electron),tauri-island(tauri)**
+:::
+[点击此处跳转,建议先看完下面的部分](https://github.com/Python-island/Python-island/issues)
+
 
 <div style="display:flex; align-items:center; gap:20px;">
 
   <div style="flex:1;">
-    <strong>点击</strong>你看到唯一是<strong>绿色并且文本为New issue的按钮</strong>(右边那个~~)
+    点击上方蓝字之后会跳转页面
+    <br>
+    <strong>寻找</strong>你看到唯一是<strong>绿色并且文本为New issue的按钮</strong>(右边那个喵~~)
     <br>
     点击后如下图所示
     <br>

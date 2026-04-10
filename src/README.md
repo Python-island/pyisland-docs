@@ -4,7 +4,7 @@ icon: home
 title: Pyisland 灵动岛
 heroImage: /island_c.svg
 heroText: Pyisland
-tagline: 用 Python 开发，运行在 Windows 上的现代灵动岛控制中心
+tagline: 运行在 Windows 上的现代灵动岛控制中心<br>Pyisland,不只有py<br>小白请先看下面第一段文字
 actions:
   - text: 立即下载
     icon: download
@@ -18,6 +18,20 @@ actions:
     link: /guide/features
 
 highlights:
+  - header: 不会下载或使用?
+    features:
+      - title: Pyisland不仅只有py
+        icon: code
+        details: eisland,tauri都是我们开发的分支
+
+      - title: 音乐功能歌词不匹配?
+        icon: mdi:music
+        details: 请前往使用指南
+
+      - title: 无法使用Ai?
+        icon: lucide:bot
+        details: 请前往使用指南
+
   - header: 什么是 Pyisland?
     features:
       - title: 仿 macOS 灵动岛设计
