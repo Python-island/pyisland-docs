@@ -7,6 +7,7 @@ export default sidebar({
       icon: "book",
       children: [
         "/guide/",
+        "/guide/ncm-music",
         "/guide/pyislandPyside6",
         "/guide/tauri-island",
         "/guide/eisland",
