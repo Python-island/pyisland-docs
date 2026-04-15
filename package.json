@@ -1,7 +1,7 @@
 {
   "name": "pyisland-docs",
   "description": "pyisland-docs",
-  "version": "26.1.3",
+  "version": "26.1.4",
   "license": "GPL-3.0",
   "type": "module",
   "scripts": {
