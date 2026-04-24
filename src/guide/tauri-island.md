@@ -7,7 +7,7 @@ order: 1
 该文档待提交图片教程
 :::
 # tauri-island
-本文档为tauri-island分支教程,功能介绍见[tauri-island](/branches/tauri-island.html)
+本文档为 **tauri-island(高性能)** 分支教程,功能介绍见[tauri-island](/branches/tauri-island.html)
 
 ## 展开触发
 页面结构
@@ -22,28 +22,13 @@ order: 1
 **切换页面都是双击切换,如默认页至ai页,默认页至音乐页**
 
 ## 歌词捕获
-支持三种捕获方式,**歌词捕获流程从上到下,失败则尝试下一方式**
-### 1.smtc流派提取
-:::warning
-该方式***仅支持网易云音乐***
-:::
-该捕获方式命中率百分百,如果无法获取到歌词请考虑网易云版本;
-#### 开启方式:
-- 安装插件,[教程点我](/guide/qa/ncm-music.html)
-- 设置中开启本功能 名称为"SMTC命中(网易云)"
-
-### 2.内置rust api
 源码实现见[lyricify-lyrics-provider-rs](https://github.com/cXp1r/lyricify-lyrics-provider-rs)
 流程:进程匹配对应api,通过smtc信息搜索并获取歌词
-**原生支持 汽水音乐,网易云音乐,QQ音乐. 暂不支持酷狗音乐(时间轴失效)**
+**原生支持** *汽水音乐,QQ音乐* **插件支持** *网易云音乐* **暂不支持** *酷狗音乐(无时间轴)*
 :::tip
 如果 **原生支持** 中的播放器**时间轴,歌词切换失效**,那么可以考虑**更新**播放器
 :::
-#### 开启方式:
-- 设置中开启本功能 名称为"Rust API"
 
-#### 开启方式:
-- 默认开启,无需操作
 
 
 

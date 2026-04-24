@@ -67,6 +67,13 @@ order: 1
 
 </div>
 
+
+#### 若网易云插件市场一直转圈,请看此处
+可能是指向了旧的仓库地址,点击[此处](https://github.com/cXp1r/betterncm_fix/releases/tag/v0.1.0)后查看指引下载并允许betterncm_fix.exe实现修复,
+
+### 检查SMTC协议
+如果还是识别不到,需要考虑使用[SMTCBox](https://github.com/cXp1r/SMTCBox-rs/releases/tag/v26.1.0)判断SMTC协议是否正常
+
 ## 歌词显示有延迟
 正常现象,0延迟不可能通过合法途径实现
 同时,tauri分支在前奏时,不会显示后面的歌词,也不会显示曲目元信息
